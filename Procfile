@@ -1,1 +1,1 @@
-web: node --optimize_for_size --max_old_space_size=512 pokemon-showdown $PORT
+web: node --optimize-for-size --max-old-space-size=512 pokemon-showdown $PORT
